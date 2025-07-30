@@ -17,22 +17,22 @@
 
 <table align="center" border="1" cellspacing="0" cellpadding="15" style="border-collapse:collapse; text-align:center;">
   <tr>
-    <td width="130"><img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML</td>
-    <td width="130"><img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS</td>
-    <td width="130"><img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript</td>
-    <td width="130"><img src="https://skillicons.dev/icons?i=ts" width="55"/><br>TypeScript</td>
+    <td width="130" align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML</td>
+    <td width="130" align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS</td>
+    <td width="130" align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript</td>
+    <td width="130" align="center"><img src="https://skillicons.dev/icons?i=ts" width="55"/><br>TypeScript</td>
   </tr>
   <tr>
-    <td width="130"><img src="https://skillicons.dev/icons?i=react" width="55"/><br>React</td>
-    <td width="130"><img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>Next.js</td>
-    <td width="130"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>Tailwind</td>
-    <td width="130"><img src="https://skillicons.dev/icons?i=redux" width="55"/><br>Redux</td>
+    <td width="130" align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/><br>React</td>
+    <td width="130" align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>Next.js</td>
+    <td width="130" align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>Tailwind</td>
+    <td width="130" align="center"><img src="https://skillicons.dev/icons?i=redux" width="55"/><br>Redux</td>
   </tr>
   <tr>
-    <td width="130"><img src="https://ui.shadcn.com/apple-touch-icon.png" width="55"/><br>shadcn/ui</td>
-    <td width="130"><img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" width="55"/><br>Zustand</td>
-    <td width="130"><img src="https://skillicons.dev/icons?i=figma" width="55"/><br>Figma</td>
-    <td width="130"><img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub</td>
+    <td width="130" align="center"><img src="https://ui.shadcn.com/apple-touch-icon.png" width="55"/><br>shadcn/ui</td>
+    <td width="130" align="center"><img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" width="55"/><br>Zustand</td>
+    <td width="130" align="center"><img src="https://skillicons.dev/icons?i=figma" width="55"/><br>Figma</td>
+    <td width="130" align="center"><img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub</td>
   </tr>
 </table>
 
@@ -45,6 +45,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NazarovBehruzbek&show_icons=true&theme=dark&hide_border=true" width="49%" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazarovBehruzbek&layout=compact&theme=dark&hide_border=true" width="49%" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NazarovBehruzbek&show_icons=true&theme=dark&hide_border=true" width="100%" height="150"/>
 </p>
