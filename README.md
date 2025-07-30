@@ -45,5 +45,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NazarovBehruzbek&show_icons=true&theme=dark&hide_border=true" width="100%" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NazarovBehruzbek&show_icons=true&theme=dark&hide_border=true" width="90%"/>
 </p>
