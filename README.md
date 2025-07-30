@@ -44,6 +44,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NazarovBehruzbek&theme=github_dark" width="95%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NazarovBehruzbek&show_icons=true&theme=dark&hide_border=true" width="95%" height="200"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NazarovBehruzbek&show_icons=true&theme=dark&hide_border=true" width="100%" height="300"/>
 </p>
