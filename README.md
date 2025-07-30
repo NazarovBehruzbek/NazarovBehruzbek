@@ -1,6 +1,6 @@
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=FF5733&center=true&vCenter=true&width=700&lines=Hi,+I'm+Behruzbek+Nazarov;Frontend+Developer+%7C+React+%2B+TypeScript+%2B+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=1E3A8A&center=true&vCenter=true&width=700&lines=Hi,+I'm+Behruzbek+Nazarov;Frontend+Developer+%7C+React+%2B+TypeScript+%2B+Next.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -46,9 +46,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NazarovBehruzbek&show_icons=true&theme=dark&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NazarovBehruzbek&theme=dark&hide_border=true" width="49%" />
+ <img src="https://streak-stats.demolab.com?user=NazarovBehruzbek&theme=dark&hide_border=true" width="49%" />
+
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazarovBehruzbek&layout=compact&theme=dark&hide_border=true" width="49%" />
-</p>
